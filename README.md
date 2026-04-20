@@ -24,7 +24,7 @@ This codebase showcases the ability to move from basic LLM usage to production-m
 
 | File | What It Demonstrates | Key Concepts |
 |---|---|---|
-| `main_helloworld.py` | Basic LangChain prompt + model chain | `PromptTemplate`, LCEL pipe (|), model invocation |
+| `main_helloworld.py` | Basic LangChain prompt + model chain | `PromptTemplate`, LCEL pipe , model invocation |
 | `main_tavily.py` | Web-search agent with structured output | `create_agent`, `TavilySearch`, Pydantic response schema |
 | `main_custom_tool_tavily.py` | Custom tool pattern (drafted example) | `@tool`, custom search wrapper, agent tool integration |
 | `1_agent_loop_langchain_tool_calling.py` | Manual agent loop with LangChain tool-calling | `bind_tools`, tool call dispatch, `ToolMessage`, iterative reasoning |
