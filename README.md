@@ -75,3 +75,12 @@ Suggested Environment Variables
   TAVILY_API_KEY - required for Tavily search scripts
   LANGSMITH_API_KEY (optional but recommended for tracing)
   LANGSMITH_TRACING=true (optional for trace collection)
+
+
+Engineering Skills Demonstrated
+  Agent Engineering: Designed iterative tool-use loops with guardrails and max-iteration handling.
+  Prompt Protocol Design: Built explicit Thought/Action/Observation formats for raw ReAct workflows.
+  RAG Implementation: Implemented ingestion and retrieval pipelines with chunking, embeddings, and vector search.
+  Structured AI Outputs: Used Pydantic schemas to enforce response contracts.
+  LLM Observability: Integrated LangSmith tracing for debugging tool and model interactions.
+  API Integration: Connected multiple external AI services in cohesive workflows.
