@@ -11,8 +11,6 @@ This repo demonstrates practical AI application skills across:
 
 ---
 
-## Why This Project Is Recruiter-Relevant
-
 This codebase showcases the ability to move from basic LLM usage to production-minded patterns:
 - Building both **framework-assisted** and **from-scratch** agent loops.
 - Integrating external tools and APIs for real-world workflows.
